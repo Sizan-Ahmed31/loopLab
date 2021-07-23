@@ -1,0 +1,105 @@
+.white {
+    color: white;
+}
+
+.navv {
+    background: #292b2c;
+    opacity: .7;
+    border-bottom: 3px solid #04689A;
+}
+
+#home-section {
+    min-height: 700px;
+    background-attachment: fixed;
+    background-image: url("image/home.jpg");
+}
+
+.shadow {
+    min-height: 700px;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+.first-div {
+    padding-top: 150px;
+}
+
+.pd-icon {
+    padding-left: 20px;
+    padding-top: 70px;
+}
+
+.icon {
+    font-size: 35px;
+    color: #008ED6;
+    padding: 5px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.big {
+    font-size: 21px;
+}
+
+.pdding {
+    padding-top: 60px;
+    padding-left: 50px;
+}
+
+.crd {
+    background: rgba(13, 110, 253, .8);
+}
+
+.second-icon {
+    font-size: 35px;
+    background-color: #000;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.label-1st {
+    margin-left: -422px;
+    margin-bottom: 10px;
+}
+
+.label-2nd {
+    margin-left: -427px;
+    margin-bottom: 10px;
+}
+
+.label-3rd {
+    margin-left: -408px;
+    margin-bottom: 10px;
+}
+
+.input {
+    width: 60px;
+    margin-left: 16px;
+}
+
+
+/* media quaries */
+
+@media(max-width:575px) {
+    /* extra small */
+    .none {
+        display: none;
+    }
+}
+
+@media(min-width:576px) {
+    /* small */
+}
+
+@media(min-width:768px) {
+    /* medium */
+}
+
+@media(min-width:992px) {
+    /* large */
+}
+
+@media(min-width:1200px) {
+    /* extra large */
+}
